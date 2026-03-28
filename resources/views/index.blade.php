@@ -39,14 +39,14 @@
         <div class="absolute top-1/2 left-1/2 w-80 h-80 bg-secondary/20 rounded-xl blur-3xl animate-float" style="animation-delay: 4s"></div>
     </div>
 
-    <header class="relative bg-white/60 backdrop-blur-md text-white shadow-lg z-50 w-full border-b border-white/20">
+    <header class="relative bg-white/10 backdrop-blur-md text-white shadow-lg z-50 w-full border-b border-white/20">
         <div class="max-w-7xl mx-auto px-6 py-5 flex items-center justify-between">
             <a href="#" class="flex items-center gap-3 group">
                 <div class="relative">
                     <img class="h-10" src="logo.webp" alt="logo" width="50" height="40" fetchpriority="high">
                 </div>
                 <div class="text-left">
-                    <h1 class="text-xl font-bold tracking-tight">STIMMEL</h1>
+                    <h1 class="text-xl font-normal tracking-tight">STIMMEL</h1>
                     <p class="text-sm text-blue-100 font-medium">Vzduchotechnika</p>
                 </div>
             </a>
@@ -98,7 +98,7 @@
 
     <div class="relative max-w-7xl mx-auto px-6 pt-40 pb-32 text-center" id="main-content">
         <div class="animate-slide-up">
-            <h2 class="text-3xl md:text-7xl font-extrabold leading-tight mb-6 bg-gradient-to-r from-white to-blue-100 bg-clip-text text-transparent">
+            <h2 class="text-3xl md:text-7xl font-normal leading-tight mb-6 bg-gradient-to-r from-white to-blue-100 bg-clip-text text-transparent">
                 Projekce a realizace
                 <br>
                 <span class="text-accent">vzduchotechniky</span>
@@ -130,7 +130,7 @@
 
     <div class="relative max-w-7xl mx-auto px-6">
         <div class="text-center mb-16">
-            <h3 id="services-heading" class="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
+            <h3 id="services-heading" class="text-4xl md:text-5xl font-normal bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
                 Naše služby
             </h3>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
@@ -149,7 +149,7 @@
                             </path>
                         </svg>
                     </div>
-                    <h4 class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Návrh vzduchotechniky</h4>
+                    <h4 class="text-2xl font-normal text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Návrh vzduchotechniky</h4>
                     <p class="text-gray-600 leading-relaxed">Projektování, dimenzování a výběr zařízení dle vašich požadavků a norem.</p>
                 </div>
             </article>
@@ -163,7 +163,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"></path>
                         </svg>
                     </div>
-                    <h4 class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Montáž a instalace</h4>
+                    <h4 class="text-2xl font-normal text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Montáž a servis</h4>
                     <p class="text-gray-600 leading-relaxed">Kompletní montáž, připojení a uvedení do provozu s odborným dohledem.</p>
                 </div>
             </article>
@@ -176,7 +176,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z"></path>
                         </svg>
                     </div>
-                    <h4 class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Servis & údržba</h4>
+                    <h4 class="text-2xl font-normal text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Aromatizace prostoru</h4>
                     <p class="text-gray-600 leading-relaxed">Pravidelný servis a opravy pro dlouhodobý a spolehlivý provoz vašeho zařízení.</p>
                 </div>
             </article>
@@ -193,7 +193,7 @@
 
     <div class="relative max-w-7xl mx-auto px-6">
         <div class="text-center mb-16">
-            <h3 class="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
+            <h3 class="text-4xl md:text-5xl font-normal bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
                 Proč si vybrat nás
             </h3>
             <p class="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
@@ -211,7 +211,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"></path>
                         </svg>
                     </div>
-                    <h4 class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Zkušený tým profesionálů</h4>
+                    <h4 class="text-2xl font-normal text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Zkušený tým profesionálů</h4>
                     <p class="text-gray-600 leading-relaxed">Naši odborníci mají letitou praxi v oboru vzduchotechniky a zaručují profesionální přístup ke každému projektu.</p>
                 </div>
             </article>
@@ -224,7 +224,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"></path>
                         </svg>
                     </div>
-                    <h4 class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Rychlá a precizní realizace</h4>
+                    <h4 class="text-2xl font-normal text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Rychlá a precizní realizace</h4>
                     <p class="text-gray-600 leading-relaxed">Díky našim zkušenostem a modernímu vybavení zajišťujeme rychlou a přesnou realizaci všech projektů v krátkých časových lhůtách.</p>
                 </div>
             </article>
@@ -237,7 +237,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"></path>
                         </svg>
                     </div>
-                    <h4 class="text-2xl font-bold text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Včasné a spolehlivé provedení</h4>
+                    <h4 class="text-2xl font-normal text-gray-900 mb-4 group-hover:text-primary transition-colors duration-300">Včasné a spolehlivé provedení</h4>
                     <p class="text-gray-600 leading-relaxed">Vždy dodržujeme dohodnuté termíny a zaručujeme spolehlivé provedení všech prací s důrazem na kvalitu a detaily.</p>
                 </div>
             </article>
@@ -254,7 +254,7 @@
 
     <div class="relative max-w-7xl mx-auto px-6 space-y-16">
         <div class="text-center">
-            <h3 class="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
+            <h3 class="text-4xl md:text-5xl font-normal bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
                 Naše projekty
             </h3>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
@@ -278,7 +278,7 @@
                     ])
                 </div>
                 <div class="p-6">
-                    <p class="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Výrobní hala - Kvasiny</p>
+                    <p class="text-xl font-normal text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Výrobní hala - Kvasiny</p>
                     <p class="text-gray-600 leading-relaxed">Kompletní dodávka vzduchotechniky a montáž pro moderní kancelářské prostory.</p>
                 </div>
             </div>
@@ -297,7 +297,7 @@
                     ])
                 </div>
                 <div class="p-6">
-                    <p class="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Agroskola - Pozďatin</p>
+                    <p class="text-xl font-normal text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Agroskola - Pozďatin</p>
                     <p class="text-gray-600 leading-relaxed">Velká zakázka s důrazem na efektivitu a spolehlivost provozu.</p>
                 </div>
             </div>
@@ -316,7 +316,7 @@
                     ])
                 </div>
                 <div class="p-6">
-                    <p class="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Rodiny dům - Bucovice</p>
+                    <p class="text-xl font-normal text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Rodiny dům - Bucovice</p>
                     <p class="text-gray-600 leading-relaxed">Kompletní dodávka vzduchotechniky a montáž pro moderní kancelářské prostory.</p>
                 </div>
             </div>
@@ -338,7 +338,7 @@
                     ])
                 </div>
                 <div class="p-6">
-                    <p class="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Bytové domy Golf Resort - Praha</p>
+                    <p class="text-xl font-normal text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Bytové domy - Praha</p>
                     <p class="text-gray-600 leading-relaxed">Modernizace vzduchotechniky v historické budově s zachováním charakteru.</p>
                 </div>
             </div>
@@ -359,7 +359,7 @@
                     ])
                 </div>
                 <div class="p-6">
-                    <p class="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Chemická výroba - Bohumín</p>
+                    <p class="text-xl font-normal text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Chemická výroba - Bohumín</p>
                     <p class="text-gray-600 leading-relaxed">Velká zakázka s důrazem na efektivitu a spolehlivost provozu.</p>
                 </div>
             </div>
@@ -378,7 +378,7 @@
                     ])
                 </div>
                 <div class="p-6">
-                    <p class="text-xl font-bold text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Rekonstrukce — Olomouc</p>
+                    <p class="text-xl font-normal text-gray-900 mb-2 group-hover:text-primary transition-colors duration-300">Rekonstrukce — Olomouc</p>
                     <p class="text-gray-600 leading-relaxed">Modernizace vzduchotechniky v historické budově s zachováním charakteru.</p>
                 </div>
             </div>
@@ -401,7 +401,7 @@
 
     <div class="relative max-w-4xl mx-auto px-6">
         <div class="text-center mb-16">
-            <h3 id="contact-heading" class="text-4xl md:text-5xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
+            <h3 id="contact-heading" class="text-4xl md:text-5xl font-normal bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent mb-4">
                 Nezávazná poptávka
             </h3>
             <p class="text-xl text-gray-600 max-w-2xl mx-auto">
@@ -480,12 +480,12 @@
 {{--                        <path d="M0,50 C20,30 40,70 60,50 C80,30 100,50 100,50" fill="none" stroke="#0074CC" stroke-width="5" class="animate-pulse" style="animation-delay: 0.5s" />--}}
 {{--                        <path d="M0,70 C20,50 40,90 60,70 C80,50 100,70 100,70" fill="none" stroke="#00A1FF" stroke-width="5" class="animate-pulse" style="animation-delay: 1s" />--}}
 {{--                    </svg>--}}
-{{--                    <h4 class="text-2xl font-bold">STIMMEL</h4>--}}
+{{--                    <h4 class="text-2xl font-normal">STIMMEL</h4>--}}
                     <div class="relative">
                         <img class="h-10" src="logo.webp" alt="logo" width="50" height="40" fetchpriority="high">
                     </div>
                     <div class="text-left">
-                        <h1 class="text-xl font-bold tracking-tight">STIMMEL</h1>
+                        <h1 class="text-xl font-normal tracking-tight">STIMMEL</h1>
                         <p class="text-sm text-blue-100 font-medium">Vzduchotechnika</p>
                     </div>
                 </div>
@@ -507,13 +507,13 @@
             </div>
 
             <div>
-                <p class="text-xl font-bold mb-6">Kontakty</p>
+                <p class="text-xl font-normal mb-6">Kontakty</p>
                 <div class="space-y-4 text-gray-400">
                     <div class="flex items-center gap-3 hover:text-white transition-colors duration-300">
                         <svg class="w-9 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 4.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2pa2 2 0 00-2 2v10a2 2 0 002 2z"></path>
                         </svg>
-                        <span>info@STIMMEL.cz</span>
+                        <span>info@stimmel.cz</span>
                     </div>
                     <div class="flex items-center gap-3 hover:text-white transition-colors duration-300">
                         <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -532,7 +532,7 @@
             </div>
 
             <div>
-                <p class="text-xl font-bold mb-6">Rychlé odkazy</p>
+                <p class="text-xl font-normal mb-6">Rychlé odkazy</p>
                 <ul class="space-y-3 text-gray-400">
                     <li><a href="#about" class="hover:text-white transition-colors duration-300">O nás</a></li>
                     <li><a href="#services" class="hover:text-white transition-colors duration-300">Služby</a></li>
